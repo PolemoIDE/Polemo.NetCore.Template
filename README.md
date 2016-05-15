@@ -1,1 +1,0 @@
-# Polemo.NetCore.Template
