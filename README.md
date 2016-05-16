@@ -1,4 +1,4 @@
-# Polemo.NetCore.Template
+# Pomelo.NetCore.Template
 
 Console App: https://github.com/PomeloIDE/Pomelo.NetCore.Template/archive/console-app.zip
 
